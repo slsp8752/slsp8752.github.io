@@ -21,14 +21,14 @@ function draw() {
     var w = width;
     background(255);
 
-    for(var i = 0; i < windowWidth; i+=10){
-        for (var j = 0; j < pageheight; j += 10) {
+    for(var i = 0; i < windowWidth; i+=75){
+        for (var j = 0; j < pageheight; j += 75) {
             var d = dist(mouseX, mouseY, i, j);
             trans = map(d, 0, w, 0, 255);
-            size = map(d, 0, w, 10, 55);
+            //size = map(d, 0, w, 50, 100);
             stroke(255);
             fill(R[rgb_index],G[rgb_index],B[rgb_index],trans);
-            rect(i, j, size, size);
+            rect(i, j, 50, 50);
         }
         
     }
