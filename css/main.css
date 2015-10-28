@@ -38,6 +38,11 @@ html {
  * A better looking default horizontal rule
  */
 
+body, html { 
+    overflow-x: hidden; 
+    overflow-y: auto;
+}
+
 hr {
     display: block;
     height: 1px;
@@ -118,12 +123,13 @@ p img{
 }
 
 body p{
+   z-index: -1;
    position: relative;
    background-color:rgba(255, 255, 255, 1);
    width: 75%;
    margin-left: auto;
    margin-right: auto;
-   margin-top: 3%;
+   margin-top: 10%;
    padding: 3%;
    box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
    border: 1px solid rgba(0,0,0,.1);
@@ -131,6 +137,7 @@ body p{
 }
 
 nav{
+    
   position: fixed;
   top: 0;
   left: 0;
@@ -141,7 +148,7 @@ nav{
 }
 #title {
   z-index: 1;
-  position: relative;
+  position: fixed;
   color: #222; 
   font-size: 2em;
   letter-spacing: 0.5px;

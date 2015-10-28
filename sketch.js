@@ -4,9 +4,14 @@ var G = [107, 77, 205, 244, 98];
 var B = [107, 88, 196, 100, 112];
 rgb_index = 0;
 var isOverButton = 0;
+var pageheight;
 
 function setup() {
-    canv = createCanvas(windowWidth,windowHeight);
+    var body = document.body, html = document.documentElement;
+
+    pageheight = Math.max( body.scrollHeight, body.offsetHeight, 
+                       html.clientHeight, html.scrollHeight, html.offsetHeight );
+    canv = createCanvas(windowWidth,pageheight+50);
     canv.parent("bgCanvas");
 }
 
@@ -16,8 +21,8 @@ function draw() {
     var w = width;
     background(255);
 
-    for(var i = 0; i < windowWidth; i+=50){
-        for (var j = 0; j < windowHeight; j += 50) {
+    for(var i = 0; i < windowWidth; i+=10){
+        for (var j = 0; j < pageheight; j += 10) {
             var d = dist(mouseX, mouseY, i, j);
             trans = map(d, 0, w, 0, 255);
             size = map(d, 0, w, 10, 55);
