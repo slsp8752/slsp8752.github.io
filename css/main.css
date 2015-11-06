@@ -6,7 +6,7 @@ html {
 
 body {
     background-image: url("/branches.jpg");
-    background-size: contain;
+    background-size: cover;
     background-color: #cccccc;
     margin-top: 6%;
 }
