@@ -8,7 +8,7 @@ body {
     background-image: url("/branches.jpg");
     background-size: cover;
     background-color: #cccccc;
-    margin-top: 6%;
+    margin-top: 80px;
 }
 
 body, html { 
@@ -68,11 +68,11 @@ p img{
 
 
 body p{  
-   background-color:rgba(255, 255, 255, .9);
+   background-color:rgba(255, 255, 255, .94);
    width: 75%;
    margin-left: auto;
    margin-right: auto;
-   margin-top: 2%;
+   margin-top: 30px;
    padding: 3%;
    box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
    border: 1px solid rgba(0,0,0,.1);
@@ -83,8 +83,9 @@ nav{
   position: fixed;
   top: 0;
   left: 0;
+  min-width: 680px;
   width: 100%;
-  background: #fff;
+  background: rgba(255,255,255,.94);
   box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
   border: 1px solid rgba(0,0,0,.1);
 }
@@ -107,7 +108,7 @@ nav ul{
   list-style: none;
   position: relative;
   float: right;
-  margin-right: 100px;
+  margin-right: 25px;
   display: inline-table;
 }
     

@@ -20,16 +20,17 @@ function draw() {
   h = 256;
   w2 = w/2
   h2 = h/2;
-  fill("#bdb5b2");
   
+  fill(91,50,62,150);
   rect(0, 0, mouseX + w2, mouseY - h2);
-  fill("#53455f");
+  
+  fill(168,39,67,150);
   rect(0, mouseY-h2, mouseX-w2, height - (mouseY - h2));
 
-  fill("#AEE239");
+  fill(225,94,50,150);
   rect(mouseX - w2, mouseY + h2, width - (mouseX - w2), height - (mouseY + h2));
 
-  fill("#8FBE00");
+  fill(192,210,62,150);
   rect(mouseX + w2, 0, width - (mouseX + w2), mouseY + h2);
 }
 
