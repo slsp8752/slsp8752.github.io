@@ -4,14 +4,15 @@ function setup() {
   var body = document.body, html = document.documentElement;
   pageheight = Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight );
   canv = createCanvas(windowWidth,pageheight);
-  canv.parent("bgCanvas");
+  canv.parent("background-sketch");
   frameRate(30);
 }
 
 function draw() {
     
   clear();
-  imageMode(CENTER);
+  imageMode(CORNER);
+  
   //image(img1, mouseX, mouseY);
   //noStroke();
   stroke(255);
