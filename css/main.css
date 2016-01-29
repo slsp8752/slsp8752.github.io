@@ -7,6 +7,18 @@ video {
     vertical-align: middle;
 }
 
+.bg1{
+    background-image: url("/img/bg-tile.png");
+}
+
+.bg2{
+    background-image: url("/img/bg-tile2.png");
+}
+
+.bg3{
+    background-image: url("/img/bg-tile3.png");
+}
+
 .btn:hover {
     text-decoration: underline;
 }
@@ -31,7 +43,10 @@ video {
 
 body {
     font-family: 'Droid Sans';
-    background-image: url("/img/bg-tile3.png");
+}
+
+html { 
+    overflow-y: scroll;
 }
 
 nav {
