@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Exo 2";
+    src: url("fonts/Exo2.0-Regular.otf");
+}
+
+#bgCanvas {
+  position: absolute;
+  top:0px;
+  left:0px;
+  z-index: -2;
+}
+
+.questionText {
+  margin: auto;
+  width: 75%;
+  font-size: 48px;
+  text-align: center;
+  position: relative;
+  font-family: "Exo 2";
+  top: 70;
+  color: #483d39;
+  cursor: default;
+
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.hide {
+    display: none;
+}
+
+h2{
+    display: inline-block;
+    font-size: 48px;
+    color: #483d39;
+    font-family: "Exo 2";
+    cursor: default;
+    
+}
+
+p{
+  font-family: "Exo 2";
+  color: #483d39;
+  font-size: 48px;
+  top: 70;
+  position: relative;
+  text-align: center;
+}
