@@ -8,12 +8,12 @@ function setup() {
 	canv.parent("background-sketch");
 	frameRate(30);
 	system = new ParticleSystem(createVector(width/2, 50));
-	c1 = [237, 149, 170];
-	c2 = [107, 179, 220];
-	c3 = [198, 111, 158];
-	c4 = [109, 178, 166];
-	c5 = [179, 148, 206];
-	c6 = [138, 159, 230];
+	c1 = [85, 98, 112];
+	c2 = [78, 205, 196];
+	c3 = [199, 244, 100];
+	c4 = [255, 107, 107];
+	c5 = [196, 77, 88];
+	c6 = [127, 99, 127];
 	colors.push(c1, c2, c3, c4, c5, c6);
 }
 
