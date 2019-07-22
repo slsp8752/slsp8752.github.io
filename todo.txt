@@ -1,0 +1,31 @@
+TODO:
+
+MW Credits Page
+---------------
+Star Tracer
+Upsidedown Park
+
+Meow Wolf Page
+--------------
+- New Banner
+- Description
+- Projects
+  - Star Tracer
+    -> Dependent on Pictures, could write description, though.
+  - Emerson's Computer
+  - Snacks from Mars
+  - Arcade Marquees
+
+Main Page
+------------
+
+Misc Page
+------------
+- Projects
+  - Arcade Cabinet
+  - Orrery
+  - Pixel Shoes
+  - Metal Names
+  - eyeCU
+    - make eyeCU page
+  - Posters/Stickers

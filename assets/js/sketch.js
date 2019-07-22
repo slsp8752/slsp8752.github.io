@@ -8,7 +8,7 @@ function setup() {
 	canv.parent("background-sketch");
 	frameRate(30);
 	system = new ParticleSystem(createVector(width/2, 50));
-	c1 = [85, 98, 112];
+  c1 = [85, 98, 112];
 	c2 = [78, 205, 196];
 	c3 = [199, 244, 100];
 	c4 = [255, 107, 107];
@@ -23,7 +23,8 @@ function getCanvasHeight(){
 
 function draw() {
 	clear();
-	if(system.particles.length < 20) system.addParticle();
+  // background(0);
+	if(system.particles.length < 25) system.addParticle();
 	system.run();
 }
 
@@ -49,7 +50,7 @@ Particle.prototype.run = function() {
 Particle.prototype.update = function(){
   //this.velocity.add(this.acceleration);
   this.position.add(this.velocity);
-  this.lifespan -= 3;
+  this.lifespan -= (2 + Math.random(9));
 };
 //this.color = 'rgba('+ colors[Math.floor(Math.random()*colors.length)] +',' + this.lifespan/255 +')'
 // Method to display
@@ -84,8 +85,10 @@ ParticleSystem.prototype.run = function() {
     var p = this.particles[i];
     p.run();
     if (p.isDead()) {
+      fill("#FFFFFF");
+      stroke("#FFFFFF");
+      ellipse(p.position.x, p.position.y, 50, 50);
       this.particles.splice(i, 1);
     }
   }
 };
-
