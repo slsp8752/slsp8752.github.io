@@ -12,8 +12,6 @@ Meow Wolf Page
 - Projects
   - Star Tracer
     -> Dependent on Pictures, could write description, though.
-  - Emerson's Computer
-  - Snacks from Mars
   - Arcade Marquees
 
 Main Page

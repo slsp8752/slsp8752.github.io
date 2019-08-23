@@ -18,6 +18,13 @@
 		vertical-align: baseline;
 	}
 
+	.centerframe{
+ 		width: 960px;
+		height: 540px; 
+		margin: 0 auto; 
+		display: block;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
