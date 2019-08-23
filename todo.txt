@@ -4,26 +4,40 @@ MW Credits Page
 ---------------
 Star Tracer
 Upsidedown Park
+OKC Phone
 
 Meow Wolf Page
 --------------
 - New Banner
-- Description
+ - Star Tracer hopefully
 - Projects
   - Star Tracer
-    -> Dependent on Pictures, could write description, though.
   - Arcade Marquees
 
 Main Page
 ------------
 
+
+BTU Page
+----------
+  - Arcade Cabinet
+    - make page with basic info about the setup
+
 Misc Page
 ------------
+
+
 - Projects
-  - Arcade Cabinet
+  - Album Shuffler
+    - make new version, put on github
+
   - Orrery
+    - make page with link to http://users.hubwest.com/hubert/projects/orrery/orrery.html
   - Pixel Shoes
+    - make small page with photo slideshow?
   - Metal Names
-  - eyeCU
-    - make eyeCU page
+    - make github page
   - Posters/Stickers
+    - get pictures
+  - BTU Pumpkins
+    - get pictures, make page
