@@ -5,6 +5,7 @@ MW Credits Page
 Star Tracer
 Upsidedown Park
 OKC Phone
+Emerson's PC
 
 Meow Wolf Page
 --------------
@@ -12,7 +13,7 @@ Meow Wolf Page
  - Star Tracer hopefully
 - Projects
   - Star Tracer
-  - Arcade Marquees
+  - Arcade Marquees?
 
 Main Page
 ------------
@@ -27,7 +28,10 @@ Misc Page
 ------------
 
 
+
 - Projects
+
+  - Aerial Photogrammetry
   - Album Shuffler
     - make new version, put on github
 
