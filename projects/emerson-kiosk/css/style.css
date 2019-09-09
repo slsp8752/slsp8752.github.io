@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url("../fonts/Ubuntu-L.ttf") format("truetype");
+}
+html * { 
+  font-family: "Ubuntu", Verdana, Tahoma;
+}
+
+.popup p {
+  padding-top: 2em;
+}
+
+#background-sketch {
+  position: absolute;
+  top:0px;
+  left:0px;
+  z-index: -2;
+}
+
+header{
+  z-index: 2;
+}
+
+video{
+  background-color: black; /* or whatever you want */
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+
+.popup{
+  padding: 2em;
+  height: 75%;
+  max-width: 40em;
+}
+
+.long{
+  height: 100%;
+}
+
+.imageGallery1 {
+  overflow: hidden; margin: 30px -20px;
+}
+
+.imageGallery1 > a {
+  float: left; width: 33.3333%; padding: 1px; box-sizing: border-box; position: relative;
+}
+
+.imageGallery1 > a:first-child { left: -1px; }
+
+.imageGallery1 > a:last-child { right: -1px; }
+
+.imageGallery1 > a > img {
+  display: block; width: 100%;
+}

@@ -1,0 +1,47 @@
+TODO:
+
+MW Credits Page
+---------------
+Star Tracer
+Upsidedown Park
+OKC Phone
+Emerson's PC
+
+Meow Wolf Page
+--------------
+- New Banner
+ - Star Tracer hopefully
+- Projects
+  - Star Tracer
+  - Arcade Marquees?
+
+Main Page
+------------
+
+
+BTU Page
+----------
+  - Arcade Cabinet
+    - make page with basic info about the setup
+
+Misc Page
+------------
+
+
+
+- Projects
+
+  - Aerial Photogrammetry
+  - Album Shuffler
+    - make new version, put on github
+
+  - Orrery
+    - make page with link to http://users.hubwest.com/hubert/projects/orrery/orrery.html
+  - Pixel Shoes
+    - make small page with photo slideshow?
+  - Metal Names
+    - make github page
+  - Posters/Stickers
+    - get pictures
+  - BTU Pumpkins
+    - get pictures, make page
