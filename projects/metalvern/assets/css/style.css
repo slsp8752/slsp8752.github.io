@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.circle {
+  stroke: red;
+}
+.circle:hover {
+  stroke: white;
+}
+.logo {
+  position: relative;
+
+}
+.visible {
+  visibility: visible;
+  opacity: 1;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.3s;
+}
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.3s;
+}
+.moved {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+p{
+  margin-top: 0px;
+}
+a{
+  color: white;
+}
+#bands{
+    color: white;
+    text-align: center;
+    column-count: 3;
+}
+#fest_title{
+  color: white;
+  text-align: center;
+}
+#back{
+color: white;
+}
