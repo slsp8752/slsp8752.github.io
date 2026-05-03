@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="js/jquery-4.0.0.min.js"></script>
+  <script src="js/embla.js"></script>
+  <script src="js/folkink.js" type="module"></script>
+  <script src="js/helpers.js"></script>
+  <script src="js/init.js"></script>
+  <script src="js/drag.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <div id="loading-screen"
+    style="position:absolute;left:0; top:0;inset:0;color:#efa064;background:#f8e2c2;font-family: 'Courier New', monospace;;z-index:9999;display:flex;align-items:center;justify-content:center;">
+    <h1>LOADING...</h1>
+  </div>
+  <div id="mute-button" class="focusable" onclick="toggleMute()">
+    <img id="mute-img" src="./img/volume_mute.png">
+  </div>
+  <div id="fullscreen-overlay" style="display: none">
+    <div class="exit-fullscreen">
+      <button class="exit-button" onclick="hideFullscreen()">Exit fullscreen</button>
+    </div>
+    <div id="fullscreen-container">
+      <img id="fullscreen-image" />
+      <div id="fullscreen-iframe">
+      </div>
+    </div>
+    <div class="exit-fullscreen">
+      <button class="exit-button" onclick="hideFullscreen()">Exit fullscreen</button>
+    </div>
+  </div>
+
+  <div id="wobble"></div>
+  <div id="game" style="position: absolute;top:120px;left:0px;z-index: -2;"></div>
+</body>
+
+</html>
+
+<audio id="music" loop>
+  <source src="music.mp3" type="audio/mpeg">
+</audio>
