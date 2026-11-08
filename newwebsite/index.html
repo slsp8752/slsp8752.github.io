@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Slaton Spangler</title>
+        <script src="assets/js/palette.js"></script>
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
+    </head>
+    <body>
+    <div class="holy-grail-flexbox">
+        <header class="header">
+            <a class="nav-active" href="/">Home</a>
+            <a href="projects">Projects</a>
+            <a href="#contact">Career?</a>
+            <a href="#about">Favorite Things</a>
+        </header>
+        <main class="main-content">
+
+            <div class="heart-border-pink">
+                <div class="content-box">
+                <div>
+                    <h1 class="name">Hi, I'm Slaton Spangler</h1>
+                    <div class="bio">
+                        <img class="bio-photo" src="assets/images/photosmall.png"/>
+                        <div>
+                            <p>I make stuff! Whether it's graphic design and digital art, electronics and lights, interactive exhibits and games, zines and stickers, or sculptures and origami, I'm constantly tinkering with some sort of project.</p>
+                            <p>Professionally, I previously brought my skills to <a target="_blank" href="https://meowwolf.com/">Meow Wolf</a>'s <a target="_blank" href="https://meowwolf.com/visit/santa-fe">House of Eternal Return</a> in Santa Fe, and now work at CU's <a target="_blank" href="https://lasp.colorado.edu/">Laboratory for Atmospheric and Space Physics</a> as a Web Developer.</p>
+                            <p>You can check out some recent/highlighted projects below, or go to the <a href="projects">projects page</a> to see &#40;almost&#41; everything I've created.</p>
+                        </div>
+                    </div>
+
+                </div>
+                </div>
+            </div>
+
+            <div class="filterable-gallery">
+                <div class="plain-title">
+                    <h2>Recent Projects</h2>
+                </div>
+                <div id="recent-projects">
+                </div>
+                <div class="plain-title">
+                    <h2>Highlights</h2>
+                </div>
+                <div id="highlighted-projects">
+                </div>
+            </div>
+
+        </main>
+        <section class="left-sidebar">
+            <div class="heart-border-pink">
+                <div class="content-box">
+                    <div class="color-box">
+                        <div>
+                            <label>Color Palette</label>
+                            <select id="palette-select" class="form-select form-home" onchange="newColorPalette(event)" autocomplete="off">
+                                <option value="curiosities">Curiosities</option>
+                                <option value="cherrymelon">CherryMelon</option>
+                                <option value="en4">EN4</option>
+                                <option value="cherryfiz">&#40;h3Rry F!z</option>
+                            </select>
+                        </div>
+                        <div class="color-selector">
+                            <span class="dot outline"></span>
+                            <span class="dot box"></span>
+                            <span class="dot background"></span>
+                            <span class="dot background-highlight"></span>
+                        </div>
+                    </div>
+                </div>
+            <div>
+                <div class="content-box">
+                    <h2 class="center-text">Places to find me</h2>
+                    <div class="contact-container">
+                        <div class="contact-button">
+                            <img src="assets/images/email.png"/>
+                        </div>
+                        <div class="contact-button">
+                            <img src="assets/images/github.png"/>
+                        </div>
+                        <div class="contact-button">
+                            <img src="assets/images/instagram.png"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <aside class="right-sidebar">
+            <div class="heart-border-pink">
+                <div class="content-box">
+                    <p>This website was chopped and screwed together with the help of these resources.</p>
+                    <p>Javascript</p>
+                    <ul>
+                        <li>Background sketch made with <a target="_blank" href="https://p5js.org/">p5.js</a></li>
+                        <li><a href="/projects/index.html">Project gallery</a> made with <a target="_blank" href="https://isotope.metafizzy.co/">metafizzy's Isotope</a></li>
+                    </ul>
+                    <p>CSS</p>
+                    <ul>
+                        <li><a target="_blank" href="https://matthewjamestaylor.com/holy-grail-layout#flexbox">Holy Grail Responsive 3-Column Layout</a> by Matthew James Taylor</li>
+                        <li><a target="_blank" href="https://codepen.io/bernethe/pen/dorozd">Loading Spinner</a> by bernethe</li>
+                        <li><a target="_blank" href="https://codepen.io/GeoffreyCrofte/pen/ALxorW">Checkboxes</a> by GeoffreyCrofte</li>
+                        <li>"colonthreeheart" border from <a target="_blank" href="https://maxbittker.github.io/broider/">Broider</a> by maxbittker</li>
+                    </ul>
+                    <p>Color Palettes</p>
+                    <ul>
+                        <li><a target="_blank" href="https://lospec.com/palette-list/curiosities">Curiosities</a> by sukinapan</li>
+                        <li><a target="_blank" href="https://lospec.com/palette-list/cherrymelon">CherryMelon</a> by WildLeoKnight</li>
+                        <li><a target="_blank" href="https://lospec.com/palette-list/en4">EN4</a> by ENDESGA</li>
+                        <li><a target="_blank" href="https://lospec.com/palette-list/h3rry-fz">&#40;h3Rry F!z</a> by ID Rando</li>
+                    </ul>
+                    <p>Misc.</p>
+                    <ul>
+                        <li><a target="_blank" href="https://gwfh.mranftl.com/fonts">Google Webfonts Helper</a></li>
+                    </ul>
+                    <p>This website was proudly not "vibe coded", except for my very human vibes I felt while designing and debugging it.</p>
+                </div>
+            </div>
+        </aside>
+    </div>
+    <div id="background-sketch"></div>
+    </body>
+
+
+        <script src="assets/js/p5.min.js"></script>
+        <script src="assets/js/background.js"></script>
+        <script src="assets/js/home.js"></script>
+</html>
+

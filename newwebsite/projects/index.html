@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Projects</title>
+        <script src="../assets/js/palette.js"></script>
+        <link rel="stylesheet" href="../assets/css/style.css">
+        <link rel="stylesheet" href="../assets/css/checkboxes.css">
+        <link rel="icon" type="image/x-icon" href="../assets/images/favicon.ico">
+    </head>
+    <body>
+    <div class="holy-grail-flexbox">
+        <header class="header">
+            <a href="/">Home</a>
+            <a class="nav-active" href="projects">Projects</a>
+            <a href="#contact">Career?</a>
+            <a href="#about">Favorite Things</a>
+        </header>
+        <main class="main-content-projects">
+
+            <div class="filterable-gallery">
+                <div class="plain-title">
+                    <h2>Projects</h2>
+                </div>
+                    <div class="controls">
+                        <div id="gallery-filters">
+                        </div>
+
+                        <div>
+                            <label>Roughly Sort By</label>
+                            <select class="form-select form-projects" onchange="sortBy(event)" autocomplete="off">
+                                <option value="date">Date</option>
+                                <option value="pride">Pride</option>
+                                <option value="random">Random</option>
+                            </select>
+                        </div>
+                </div>
+
+                <div class="loading">
+                    <span>Loading</span>
+                    <div class="sp sp-circle"></div>
+                </div>
+
+                <div class="gallery-container">
+                    <div id="gallery" class="grid">
+                </div>
+                </div>
+            </div>
+
+
+        </main>
+
+        <footer class="footer">Footer</footer>
+    </div>
+    <div id="background-sketch"></div>
+    </body>
+        <script src="../assets/js/p5.min.js"></script>
+        <script src="../assets/js/isotope.pkgd.min.js"></script>
+        <script src="../assets/js/background.js"></script>
+        <script src="../assets/js/gallery.js"></script>
+</html>
+
