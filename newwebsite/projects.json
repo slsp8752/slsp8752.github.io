@@ -3,7 +3,7 @@
     {
         "title": "LCP Barn Lighting",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/lcpbarn.png",
+        "image": "/newwebsite/assets/images/lcpbarn.png",
         "date": "10/18/2026",
         "pride": "7",
         "tags": [
@@ -13,7 +13,7 @@
     {
         "title": "LCP 'Out of Time' Trophy",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/LCPoutoftime.png",
+        "image": "/newwebsite/assets/images/LCPoutoftime.png",
         "date": "9/27/2026",
         "pride": "8",
         "tags": [
@@ -25,7 +25,7 @@
     {
         "title": "LCP 'Fear the Reaper' Trophy",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/LCPreaper.png",
+        "image": "/newwebsite/assets/images/LCPreaper.png",
         "date": "10/25/2026",
         "pride": "7",
         "tags": [
@@ -35,7 +35,7 @@
     {
         "title": "Bird Engineering",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/agitator.png",
+        "image": "/newwebsite/assets/images/agitator.png",
         "date": "3/04/2018",
         "pride": "5",
         "tags": [
@@ -45,7 +45,7 @@
     {
         "title": "Amorphous Breeze",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/ambreeze.png",
+        "image": "/newwebsite/assets/images/ambreeze.png",
         "date": "6/21/2021",
         "pride": "6",
         "tags": [
@@ -57,7 +57,7 @@
     {
         "title": "Circuit Bent Camera",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/bentcamera.png",
+        "image": "/newwebsite/assets/images/bentcamera.png",
         "date": "3/23/2025",
         "pride": "6",
         "tags": [
@@ -68,7 +68,7 @@
     {
         "title": "BLDG61 Interactive Sign",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/bldg61.png",
+        "image": "/newwebsite/assets/images/bldg61.png",
         "date": "10/29/2017",
         "pride": "7",
         "tags": [
@@ -79,7 +79,7 @@
     {
         "title": "BTU Arcade",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/btuarcade.png",
+        "image": "/newwebsite/assets/images/btuarcade.png",
         "date": "3/13/2016",
         "pride": "7",
         "tags": [
@@ -91,7 +91,7 @@
     {
         "title": "Buncha Freaks Sticker",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/bunchafreaks.png",
+        "image": "/newwebsite/assets/images/bunchafreaks.png",
         "date": "6/16/2026",
         "pride": "6",
         "tags": [
@@ -101,7 +101,7 @@
     {
         "title": "Art Inspiration Cards",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/cards2.png",
+        "image": "/newwebsite/assets/images/cards2.png",
         "date": "7/06/2026",
         "pride": "9",
         "tags": [
@@ -112,7 +112,7 @@
     {
         "title": "Scenes from Elsewhere",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/coloring.png",
+        "image": "/newwebsite/assets/images/coloring.png",
         "date": "2/20/2021",
         "pride": "6",
         "tags": [
@@ -122,7 +122,7 @@
     {
         "title": "Color Machine 1",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/colormachine.png",
+        "image": "/newwebsite/assets/images/colormachine.png",
         "date": "5/02/2024",
         "pride": "7",
         "tags": [
@@ -134,7 +134,7 @@
     {
         "title": "Lava Lamp Cow",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/cow.png",
+        "image": "/newwebsite/assets/images/cow.png",
         "date": "5/14/2021",
         "pride": "5",
         "tags": [
@@ -144,7 +144,7 @@
     {
         "title": "Digital Coloring Book",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/digitalcoloring.png",
+        "image": "/newwebsite/assets/images/digitalcoloring.png",
         "date": "5/30/2020",
         "pride": "6",
         "tags": [
@@ -155,7 +155,7 @@
     {
         "title": "Dino Star",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/dinostar.png",
+        "image": "/newwebsite/assets/images/dinostar.png",
         "date": "12/20/2025",
         "pride": "7",
         "tags": [
@@ -165,7 +165,7 @@
     {
         "title": "Doodle Nights Zine",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/doodlenights.png",
+        "image": "/newwebsite/assets/images/doodlenights.png",
         "date": "9/11/2026",
         "pride": "7",
         "tags": [
@@ -176,7 +176,7 @@
     {
         "title": "EyeCU",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/eyecu.png",
+        "image": "/newwebsite/assets/images/eyecu.png",
         "date": "4/01/2018",
         "pride": "5",
         "tags": [
@@ -188,7 +188,7 @@
     {
         "title": "Facewall Studio",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/facewall.png",
+        "image": "/newwebsite/assets/images/facewall.png",
         "date": "02/03/2017",
         "pride": "4",
         "tags": [
@@ -199,7 +199,7 @@
     {
         "title": "FastLED Gradient Tool",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/fastled.png",
+        "image": "/newwebsite/assets/images/fastled.png",
         "date": "5/03/2020",
         "pride": "7",
         "tags": [
@@ -209,7 +209,7 @@
     {
         "title": "Food For Thought Volunteer App",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/foodforthought.png",
+        "image": "/newwebsite/assets/images/foodforthought.png",
         "date": "5/01/2017",
         "pride": "2",
         "tags": [
@@ -220,7 +220,7 @@
     {
         "title": "Friend Generator",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/friendgen.png",
+        "image": "/newwebsite/assets/images/friendgen.png",
         "date": "6/22/2020",
         "pride": "8",
         "tags": [
@@ -230,7 +230,7 @@
     {
         "title": "Gobstopper",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/gobstopper.png",
+        "image": "/newwebsite/assets/images/gobstopper.png",
         "date": "6/21/2021",
         "pride": "3",
         "tags": [
@@ -240,7 +240,7 @@
     {
         "title": "Hallowzine",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/hallowzine.png",
+        "image": "/newwebsite/assets/images/hallowzine.png",
         "date": "10/31/2026",
         "pride": "8",
         "tags": [
@@ -251,7 +251,7 @@
     {
         "title": "Lyons Classic Pinball Logo",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/lcplogo.png",
+        "image": "/newwebsite/assets/images/lcplogo.png",
         "date": "8/25/2023",
         "pride": "8",
         "tags": [
@@ -261,7 +261,7 @@
     {
         "title": "Desert Lizard",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/lizard.png",
+        "image": "/newwebsite/assets/images/lizard.png",
         "date": "7/15/2021",
         "pride": "4",
         "tags": [
@@ -271,7 +271,7 @@
     {
         "title": "Tiny Baby Lizard Sticker",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/lizardsticker.png",
+        "image": "/newwebsite/assets/images/lizardsticker.png",
         "date": "8/18/2026",
         "pride": "6",
         "tags": [
@@ -281,7 +281,7 @@
     {
         "title": "Metal Vernacular",
         "blurb": "Metal vernacular",
-        "image": "./assets/images/metal.png",
+        "image": "/newwebsite/assets/images/metal.png",
         "date": "11/06/2020",
         "pride": "6",
         "tags": [
@@ -291,7 +291,7 @@
     {
         "title": "Mixtape Colab",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/mixtape.png",
+        "image": "/newwebsite/assets/images/mixtape.png",
         "date": "10/10/2019",
         "pride": "8",
         "tags": [
@@ -304,7 +304,7 @@
     {
         "title": "Modular Origami",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/origami.png",
+        "image": "/newwebsite/assets/images/origami.png",
         "date": "11/09/2007",
         "pride": "5",
         "tags": [
@@ -314,7 +314,7 @@
     {
         "title": "OVER&OVER&OVER",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/over.png",
+        "image": "/newwebsite/assets/images/over.png",
         "date": "1/14/2026",
         "pride": "7",
         "tags": [
@@ -324,7 +324,7 @@
     {
         "title": "CU Grand Challenge Photogrammetry",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/photogram.png",
+        "image": "/newwebsite/assets/images/photogram.png",
         "date": "7/30/2015",
         "pride": "5",
         "tags": [
@@ -335,7 +335,7 @@
     {
         "title": "Plant Gauges",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/plantgauges.png",
+        "image": "/newwebsite/assets/images/plantgauges.png",
         "date": "7/10/2024",
         "pride": "6",
         "tags": [
@@ -347,7 +347,7 @@
     {
         "title": "Plant Orb",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/plantorb.png",
+        "image": "/newwebsite/assets/images/plantorb.png",
         "date": "10/29/2023",
         "pride": "5",
         "tags": [
@@ -359,7 +359,7 @@
     {
         "title": "Plant Walker Trash Bash",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/plantwalker.png",
+        "image": "/newwebsite/assets/images/plantwalker.png",
         "date": "9/01/2023",
         "pride": "5",
         "tags": [
@@ -369,7 +369,7 @@
     {
         "title": "Print-a-Cat Button",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/printacat.png",
+        "image": "/newwebsite/assets/images/printacat.png",
         "date": "5/27/2016",
         "pride": "3",
         "tags": [
@@ -380,7 +380,7 @@
     {
         "title": "Quantified Self",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/qs.png",
+        "image": "/newwebsite/assets/images/qs.png",
         "date": "4/28/2016",
         "pride": "7",
         "tags": [
@@ -393,7 +393,7 @@
     {
         "title": "Rest Zine",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/rest.png",
+        "image": "/newwebsite/assets/images/rest.png",
         "date": "2/01/2025",
         "pride": "7",
         "tags": [
@@ -404,7 +404,7 @@
     {
         "title": "Rocket Diagram",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/rocket.png",
+        "image": "/newwebsite/assets/images/rocket.png",
         "date": "6/03/2021",
         "pride": "5",
         "tags": [
@@ -414,7 +414,7 @@
     {
         "title": "Rough Craft Zine",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/roughcraft.png",
+        "image": "/newwebsite/assets/images/roughcraft.png",
         "date": "4/04/2026",
         "pride": "7",
         "tags": [
@@ -426,7 +426,7 @@
     {
         "title": "Roadrunner Pinball Logo",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/rrp.png",
+        "image": "/newwebsite/assets/images/rrp.png",
         "date": "10/12/2020",
         "pride": "6",
         "tags": [
@@ -436,7 +436,7 @@
     {
         "title": "Pixel Shoes",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/shoes.png",
+        "image": "/newwebsite/assets/images/shoes.png",
         "date": "10/10/2016",
         "pride": "4",
         "tags": [
@@ -446,7 +446,7 @@
     {
         "title": "Collaborative Sketchbook",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/sketchbooklindsey.png",
+        "image": "/newwebsite/assets/images/sketchbooklindsey.png",
         "date": "10/26/2016",
         "pride": "8",
         "tags": [
@@ -456,7 +456,7 @@
     {
         "title": "Snacks From Mars",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/snacks.png",
+        "image": "/newwebsite/assets/images/snacks.png",
         "date": "12/01/2018",
         "pride": "5",
         "tags": [
@@ -467,7 +467,7 @@
     {
         "title": "Sparkfun IoT Sign",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/sparkfun.png",
+        "image": "/newwebsite/assets/images/sparkfun.png",
         "date": "3/21/2017",
         "pride": "5",
         "tags": [
@@ -479,7 +479,7 @@
     {
         "title": "Star Tracer",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/startracer.png",
+        "image": "/newwebsite/assets/images/startracer.png",
         "date": "4/01/2019",
         "pride": "10",
         "tags": [
@@ -493,7 +493,7 @@
     {
         "title": "The Gallery",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/thegallery.png",
+        "image": "/newwebsite/assets/images/thegallery.png",
         "date": "5/03/2026",
         "pride": "7",
         "tags": [
@@ -505,7 +505,7 @@
     {
         "title": "Tiny Art Show Dinos",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/tinydinos.png",
+        "image": "/newwebsite/assets/images/tinydinos.png",
         "date": "11/29/2024",
         "pride": "6",
         "tags": [
@@ -515,7 +515,7 @@
     {
         "title": "ATLAS Tower Light Controller",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/tower2.png",
+        "image": "/newwebsite/assets/images/tower2.png",
         "date": "8/31/2017",
         "pride": "7",
         "tags": [
@@ -527,7 +527,7 @@
     {
         "title": "Swimming Upstream",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/upstream.png",
+        "image": "/newwebsite/assets/images/upstream.png",
         "date": "12/05/2025",
         "pride": "7",
         "tags": [
@@ -537,7 +537,7 @@
     {
         "title": "Weird Plants",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/weirdplants.png",
+        "image": "/newwebsite/assets/images/weirdplants.png",
         "date": "8/24/2023",
         "pride": "6",
         "tags": [
@@ -547,7 +547,7 @@
     {
         "title": "Reflection",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/dino.png",
+        "image": "/newwebsite/assets/images/dino.png",
         "date": "10/24/2026",
         "pride": "6",
         "tags": [
@@ -557,7 +557,7 @@
     {
         "title": "Sixth Cents",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/6cents.png",
+        "image": "/newwebsite/assets/images/6cents.png",
         "date": "3/30/2025",
         "pride": "6",
         "tags": [
@@ -567,7 +567,7 @@
     {
         "title": " ̶D̶R̶O̶W̶N̶",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/drown.png",
+        "image": "/newwebsite/assets/images/drown.png",
         "date": "3/24/2025",
         "pride": "5",
         "tags": [
@@ -577,7 +577,7 @@
     {
         "title": "FLOCK",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/flock.png",
+        "image": "/newwebsite/assets/images/flock.png",
         "date": "3/28/2025",
         "pride": "5",
         "tags": [
@@ -587,7 +587,7 @@
     {
         "title": "LCP 'Toppin the Charts' Trophy",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/charts.png",
+        "image": "/newwebsite/assets/images/charts.png",
         "date": "5/29/2026",
         "pride": "8",
         "tags": [
@@ -598,7 +598,7 @@
     {
         "title": "Early Digital Art",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/early_digital.png",
+        "image": "/newwebsite/assets/images/early_digital.png",
         "date": "9/25/2007",
         "pride": "3",
         "tags": [
@@ -608,7 +608,7 @@
     {
         "title": "Stranger Things Pinball Room",
         "blurb": "This is a test project for the dynamic gallery system.",
-        "image": "./assets/images/stranger.png",
+        "image": "/newwebsite/assets/images/stranger.png",
         "date": "9/22/2025",
         "pride": "8",
         "tags": [
