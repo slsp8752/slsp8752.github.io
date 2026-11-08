@@ -93,7 +93,7 @@ function updateLabels(sortType) {
     });
 }
 
-fetch('../../projects.json')
+fetch('/newwebsite/projects.json')
     .then(response => response.json())
     .then(data => {
         const elems = [];
