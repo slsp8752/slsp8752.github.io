@@ -14,7 +14,6 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
 		vertical-align: baseline;
 	}
 
@@ -1737,7 +1736,7 @@
 		@media screen and (max-width: 360px) {
 
 			h1 {
-				font-size: 1.75em;
+				font-size: 1.5em;
 			}
 
 		}

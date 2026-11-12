@@ -10,7 +10,7 @@
 		position: relative;
 		padding-left: 45px;
 		padding-top: 3px;
-		font-size: 1.05em;
+		font-size: 1.3rem;
 		line-height: 1.7;
 		cursor: pointer;
 	}
@@ -36,11 +36,11 @@
 	[type="checkbox"]:not(:checked) + label:after,
 	[type="checkbox"]:checked + label:after {
 		content: '';
-		width: 15px;
-		height: 15px;
+		width: 16px;
+		height: 16px;
 		position: absolute;
-		top: 9px;
-		left: 9px;
+		top: 7px;
+		left: 7px;
 		font-size: 1.375em;
 		background-color: #ff6973;
 		line-height: 0;
